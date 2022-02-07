@@ -1,0 +1,3 @@
+Constructor for class is totally different!
+
+Constructor(a,b) : super(a);
