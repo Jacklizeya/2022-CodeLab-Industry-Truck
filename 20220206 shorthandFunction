@@ -2,6 +2,6 @@ In JavaScript
 
 A => b
 
-In dart
+In dart, can not omit ()
 
 (A) => b
