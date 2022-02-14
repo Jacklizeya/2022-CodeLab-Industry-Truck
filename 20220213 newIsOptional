@@ -1,0 +1,5 @@
+1 the new Key word is optional now
+
+2 A generative constructor doesn’t require any function body. We can assign this.name as a parameter. This allows us to write concise code.
+
+3 Multiple constructor
