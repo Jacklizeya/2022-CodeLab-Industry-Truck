@@ -10,3 +10,6 @@ String getMiddle(String s) {
   
   
 }
+
+
+// Key take away: int/int is double
