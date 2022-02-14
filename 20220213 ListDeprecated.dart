@@ -14,3 +14,22 @@ void main() {
 
 
 // The tutorial is using some outdated!
+
+// Same thing for Set and Map, no constructor before literals
+
+void main() {
+
+  var set1 = Map<String, dynamic> {"name" : "jack", "age": 31};
+  print(set1.runtimeType);
+  print(set1);
+
+  var emptyMap = Map();
+
+
+  // Driver Code
+  print(emptyMap);
+
+}
+
+
+// You can only use constructor for empty ones.
