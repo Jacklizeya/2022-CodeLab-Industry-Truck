@@ -10,3 +10,4 @@ A few shocking now knowledge
 8. initialize -> first render -> later just reactive based on callbacks
 9. if one callback takes long time to process, render won't get a chance to be executed by V8
 10. scroll handler needs a debounce, so it won't pass tons of callback 
+11. In this case, OOD actually makes more sense, initialize it, then do callback one by one
