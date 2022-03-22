@@ -1,3 +1,6 @@
+// Future as a constructor
+// Future.delay as a constructor
+
 import 'dart:async';
 
 void main() {
