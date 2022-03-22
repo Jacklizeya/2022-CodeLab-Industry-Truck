@@ -1,7 +1,7 @@
 // https://www.educative.io/courses/learn-dart-first-step-to-flutter/qZg9YP43n4r
 
 // When you run dart, the compiler is looking for the main function
-
+// Better understanding now, it is the entry point of a program
 
 // with null safety the following code will not work
 class Person{
