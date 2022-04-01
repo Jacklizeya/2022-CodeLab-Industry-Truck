@@ -1,6 +1,6 @@
-A few shocking now knowledge
+A few shocking new knowledge
 
-1. the main function will execute till the end first, this initialize everything
+1. the main() function / or we call it anonymous function will execute till the end first, this initialize everything
 2. Then it will start looking it into Queue, here, all the data are prepared already
 3. If JS engine finds something will take time to handle, it will give to its helper, the helper will prepare it and then get the results ready in queue, V8 will pick it up when the stack is empty
 4. Event.on("Button", "Click", function) will live in WebAPI, not V8! We wrote in V8 to get it started, but it lives in WebAPI
