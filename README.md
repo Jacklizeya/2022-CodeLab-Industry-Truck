@@ -11,4 +11,6 @@ Big mistake1: The Bar is the code base, the tutorial from Grokking the code inte
 
 Big mistake2: There is deprecated material in the tuotiral, this should not happen. Added on 2022 Feb 20th, with dart null safety, lots of the code in the tutorial are not going to work any more!
 
+Level up lesson: even with the official tutorial, there is no comparison with the real work, 30 lines of SQL compare with 300 lines of SQL
+
 // The real code base relies heavily on the other 80%
