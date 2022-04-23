@@ -18,3 +18,20 @@ abstract class Cache<T> {
   T getByKey(String key);
   void setByKey(String key, T value);
 }
+
+
+// Added sample on April 22 
+
+class Tesla<T> {
+  T engineType;
+
+  Tesla(T this.engineType) {
+    print(engineType);
+  }
+}
+
+// Either its element, or either its fields
+
+void main() {
+  var teslaWithString = Tesla<String>("Steve");
+}
