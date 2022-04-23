@@ -1,3 +1,4 @@
+/*
 Extend its daddy
 
 with its mum
@@ -5,6 +6,7 @@ Something a class can with
 Mixin 
 
 implement something abstract (just a bunch of interface, no implementation)
+*/
 
 
 class mum {
