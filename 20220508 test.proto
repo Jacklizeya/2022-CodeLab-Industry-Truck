@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message Employee {
+    // assign channel to message type
+    int32 id = 1; 
+    string name = 2;
+    float salary = 3;
+}
+
+// class Employees has employees property
+message Employees {
+    repeated Employee employees = 1;
+}
+
